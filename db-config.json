@@ -1,0 +1,8 @@
+
+{
+  "host": "43.143.214.10",
+  "port": 3307,
+  "user": "root",
+  "password": "thmysql8test.",
+  "database": "taskall"
+}
